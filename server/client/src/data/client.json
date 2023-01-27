@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Ron Smith",
+        "documents": [
+            {
+                "identity_proof": {
+                    "license_number": 555522223432,
+                    "pan_card_number": "AAAPL1234C",
+                    "passport_number": 31195855,
+                    "voters_id_card_number": 9474201939
+                },
+                "address_proof": {
+                    "lease_agreement": "Residential Tenancy Agreement",
+                    "electricity_bill": "Hydro One",
+                    "sales_tax_certificate": "Reseller certificate"
+                },
+                "itr": {
+                    "balance_sheet": 20592,
+                    "income_statement": 1922
+                },
+                "loan_application_form": {
+                    "first_name": "Ron",
+                    "last_name": "Smith",
+                    "address": "32 Woodsworth Drive",
+                    "city": "Toronto",
+                    "state": "Ontario",
+                    "phone_number": 9052932138,
+                    "amount_of_loan": 5000,
+                    "requested_mos_to_pay_back": 12,
+                    "purpose_of_loan": "Education",
+                    "current_employer": "City of Toronto",
+                    "income": 3212,
+                    "assets": 43429
+                },
+                "proof_of_age": {
+                    "passport_number": 31195855,
+                    "pan_card_number": "AAAPL1234C"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Mary Wong",
+        "documents": [
+            {
+                "identity_proof": {
+                    "license_number": 622153860932,
+                    "pan_card_number": "OPSMK9472M",
+                    "passport_number": 84927492,
+                    "voters_id_card_number": 5928472010
+                },
+                "address_proof": {
+                    "lease_agreement": "Residential Tenancy Agreement",
+                    "electricity_bill": "Pacific Gas and Electric",
+                    "sales_tax_certificate": "Exemption certificate"
+                },
+                "itr": {
+                    "balance_sheet": 102491,
+                    "income_statement": 30419
+                },
+                "loan_application_form": {
+                    "first_name": "Mary",
+                    "last_name": "Wong",
+                    "address": "32 Sacramento Street",
+                    "city": "San Francisco",
+                    "state": "California",
+                    "phone_number": 5102943823,
+                    "amount_of_loan": 150000,
+                    "requested_mos_to_pay_back": 24,
+                    "purpose_of_loan": "House",
+                    "current_employer": "Self Employed",
+                    "income": 86500,
+                    "assets": 340233
+                },
+                "proof_of_age": {
+                    "passport_number": 84927492,
+                    "pan_card_number": "OPSMK9472M"
+                }
+            }
+        ]
+    }
+]
